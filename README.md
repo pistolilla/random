@@ -1,2 +1,2 @@
 # random
-presets for random (plugin)
+C:\Users\pisto\AppData\Roaming\Beatsurfing
